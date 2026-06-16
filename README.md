@@ -73,7 +73,7 @@ Database:
 
 ## Testing
 
-The project includes tests for:
+The project includes tests for: Total  11 tests
 
 * Form validation
 * Coordinate formatting

@@ -119,6 +119,7 @@ Add screenshots of:
 * Add Trip Screen
 * Trip Detail Screen
 * Profile Screen
+* Login Screen
 
 ## Author
 
